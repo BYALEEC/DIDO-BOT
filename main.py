@@ -12,7 +12,7 @@ load_dotenv()
 intents = discord.Intents.default()
 intents.members = True
 client = discord.Client(intents=intents)
-key = "OTM2NjIwMDk4MjM0NTExMzYy.GLMPAq.iacaYvKaASDYbbGuVCMVpvS3yeogqwjph0IYVY"
+key = ""
 
 voice_clients = {}
 
